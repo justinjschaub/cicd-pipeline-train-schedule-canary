@@ -30,7 +30,7 @@ spec:
     metadata:
       labels:
         app: train-schedule
-        track: canary
+        track: canary 
     spec:
       containers:
       - name: train-schedule
